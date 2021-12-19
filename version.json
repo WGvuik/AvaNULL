@@ -4,6 +4,8 @@
     },
     "AvaNULL x32": {
         "pnz-city": "92.3.3",
+        "proxy-version": "0.1",
+        "proxy": true,
         "version": "3.1"
     }
 }
